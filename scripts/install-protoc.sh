@@ -1,6 +1,6 @@
 #! /bin/bash
 
-VERSION="3.11.3"
+VERSION="3.14.0"
 
 BASE_URL="https://github.com/protocolbuffers/protobuf/releases/download"
 PLATFORM="$(uname -s)"

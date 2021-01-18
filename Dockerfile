@@ -1,4 +1,4 @@
-FROM google/dart
+FROM google/dart:2.12-dev
 
 RUN apt-get update && \
     apt-get -y install unzip
